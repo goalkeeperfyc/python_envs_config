@@ -1,4 +1,4 @@
-# How to create python environment
+# How to Create Python Environment
 
 ```bash
 # For mac
