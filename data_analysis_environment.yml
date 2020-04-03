@@ -1,0 +1,7 @@
+name: data_analysis
+dependencies:
+  - python=3.7
+  - seaborn
+  - basemap
+  - proj4
+  - pyproj

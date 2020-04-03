@@ -1,0 +1,15 @@
+name: machine_learning
+dependencies:
+  - python=3.6
+  - tensorflow
+  - seaborn
+  - keras
+  - pandas_profiling
+  - lightgbm
+  - catboost
+  - xgboost
+  - sklearn
+  - ray torch torchvision
+  - optuna
+  - eli5
+  - tqdm

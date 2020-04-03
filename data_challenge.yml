@@ -1,0 +1,6 @@
+name: data_challenge
+dependencies:
+  - python=3.7
+  - seaborn
+  - jupyter
+  - sklearn
