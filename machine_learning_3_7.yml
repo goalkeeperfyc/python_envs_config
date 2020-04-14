@@ -7,8 +7,6 @@ dependencies:
   - scikit-learn
   - pandas
   - scikit-image
-  - holidays=0.10.1
-  - optuna
   - xlrd
   - rtree
   - statsmodels
