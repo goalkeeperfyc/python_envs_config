@@ -1,0 +1,5 @@
+name: k15_edu
+dependencies:
+  - python=3.7
+  - pandas
+  - xlrd
