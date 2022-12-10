@@ -1,0 +1,5 @@
+name: kaggle_otto
+dependencies:
+  - python=3.9
+  - kaggle
+  - pyarrow
