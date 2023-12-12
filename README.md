@@ -2,7 +2,7 @@
 
 ```bash
 # For mac
-cd /opt/anaconda/python_envs_config
+cd /opt/anaconda3/python_envs_config
 
 # For windows
 cd C:\Users\13053\python_envs_config
