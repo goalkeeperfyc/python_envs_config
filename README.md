@@ -8,4 +8,7 @@ cd /opt/anaconda3/python_envs_config/config_file/
 cd C:\Users\13053\python_envs_config
 
 conda env create -f environment.yml
+
+# Activate the env
+conda activate env
 ```
